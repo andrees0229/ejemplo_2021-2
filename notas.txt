@@ -1,0 +1,5 @@
+14 
+25
+
+paso 1 crear un fork
+paso 2 bajar repo al equipo
